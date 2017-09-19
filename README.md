@@ -16,13 +16,14 @@
 * https://urlscan.io/
 * http://urlquery.net/
 ### Blogs / Communities / Topics / White papers / Books
-* http://sysforensics.org/2014/01/know-your-windows-processes/ - Understanding Windows Processes
-* http://www.irongeek.com/i.php?page=security/windows-forensics-registry-and-file-system-spots - Interesting focus points
-* https://digital-forensics.sans.org/media/poster-windows-forensics-2016.pdf - SANS Forensics Poster
+* http://sysforensics.org/2014/01/know-your-windows-processes/
+* http://www.irongeek.com/i.php?page=security/windows-forensics-registry-and-file-system-spots
+* https://digital-forensics.sans.org/media/poster-windows-forensics-2016.pdf
 * http://blog.talosintelligence.com/
 * https://digital-forensics.sans.org/blog
-* https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-windows-management-instrumentation.pdf - WMI white paper
+* https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-windows-management-instrumentation.pdf
 * https://binaryforay.blogspot.com/2017/09/shellbags-explorer-0950-released.html
+* https://otx.alienvault.com/
 
 ## Tools
 * ShimCache Parser - https://github.com/mandiant/ShimCacheParser

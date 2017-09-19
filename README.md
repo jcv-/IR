@@ -38,3 +38,4 @@
 * OLEDump - https://blog.didierstevens.com/programs/oledump-py/
 * Registry Explorer, amcache parser, jumplist parser - https://ericzimmerman.github.io/
 * PDF Stream Dumper - https://zeltser.com/pdf-stream-dumper-malicious-file-analysis/
+* Autopsy - https://www.sleuthkit.org/autopsy/

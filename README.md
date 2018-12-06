@@ -15,6 +15,7 @@
 * https://www.joesandbox.com/
 * https://urlscan.io/
 * http://urlquery.net/
+* https://app.any.run/
 ### Blogs / Communities / Topics / White papers / Books
 * http://sysforensics.org/2014/01/know-your-windows-processes/
 * http://www.irongeek.com/i.php?page=security/windows-forensics-registry-and-file-system-spots
@@ -41,3 +42,7 @@
 * PDF Stream Dumper - https://zeltser.com/pdf-stream-dumper-malicious-file-analysis/
 * Autopsy - https://www.sleuthkit.org/autopsy/
 * Winjob Parser - https://github.com/yahoo/winjob
+* CyberChef - https://gchq.github.io/CyberChef/
+* Eric Zimmerman's Tool Set - https://ericzimmerman.github.io/#!index.md
+* NTCore Explorer Suite - https://ntcore.com/?page_id=388
+* HxD Editor - https://mh-nexus.de/en/hxd/
